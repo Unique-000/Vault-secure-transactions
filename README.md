@@ -1,9 +1,14 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+![enter image description here](https://i.postimg.cc/SxbDJVWc/Vault-long-png.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Vault-secure-transactions
+# **Vault - secure transactions**
+
+**Vault is the most secure middleman yet!**
+
+**Our key security points are:**
+ - *available crypto transactions*
+ - *bitcoin mixer is included in every bitcoin transaction*
+ - *credit card information is encrypted and never stored*
+ - *we store information on only finished transactions*
+
