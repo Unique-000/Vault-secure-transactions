@@ -1,0 +1,14 @@
+.Hero{
+    width: 100dvw;
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+    justify-content: center;
+}
+
+.MainScreen-logo{
+    width: 400px;
+    image-rendering: optimizeQuality;
+    height: auto;
+}

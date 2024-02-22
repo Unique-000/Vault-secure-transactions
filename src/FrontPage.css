@@ -1,0 +1,80 @@
+.TicketType-btn {
+    height: 20dvh;
+    width: 40%;
+    margin: 10px;
+    padding: 15px 5px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    border-radius: 10px;
+    display: block;
+    border: 0px;
+    font-weight: 700;
+    box-shadow: 0px 0px 14px -7px #f09819;
+    background-image: linear-gradient(45deg, #833ab4 0%, #fd1d1d  51%, #fcb045  100%);
+    cursor: pointer;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  #CheckType{
+    background-image: linear-gradient(90deg, #833ab4 0%, #fd1d1d  51%, #fcb045  100%);
+  }
+
+  #CreateType{
+    background-position: right center;
+    background-image: linear-gradient(90deg,  #fcb045 0%, #fd1d1d  51%, #833ab4  100%);
+  }
+
+  #CheckType:hover{
+    background-position: right center;
+  }
+
+  #CreateType:hover{
+    background-position: left center;
+  }
+
+  .TicketType-btn:hover {
+    background-position: bottom center;
+  
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .TicketType-btn:active {
+    transform: scale(0.95);
+  }
+  
+  .TicketType-btn:focus{
+    border: none;
+    outline: none;
+  }
+
+
+  .Choice_container{
+    max-width: 100%;
+    width: 300px;
+  
+    height: fit-content;
+  
+    padding: 20px;
+  
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    background: rgba(237, 5, 255, 0.05);
+  
+    border-radius: 16px;
+  
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  
+    backdrop-filter: blur(6.8px);
+  
+    -webkit-backdrop-filter: blur(6.8px);
+  
+    border: 1px solid rgba(237, 5, 255, 0.17);
+  }
